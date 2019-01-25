@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# Exports Mesh from FreeCAD to 3D CAM print
+# Author: Nishant Singh
+#
+
 import FreeCAD
 import Mesh
 import sys
